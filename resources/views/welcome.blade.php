@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel master ola
+                    Laravel master ola sds
                 </div>
 
                 <div class="links">
